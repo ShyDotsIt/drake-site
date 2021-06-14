@@ -1,0 +1,19 @@
+.shows {
+    float: left;
+    margin:auto;
+    padding:auto;
+    background-color: black;
+    color:gold;
+}
+body {
+    background-image: url(https://www.teahub.io/photos/full/60-606091_ovo-wallpaper-drake.jpg);
+    background-size: cover;
+}
+.basics {
+    color:white;
+}
+.bio {
+    color:white;
+    margin: 30%;
+}
+
